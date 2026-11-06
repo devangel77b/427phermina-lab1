@@ -1,0 +1,13 @@
+1. This is a review of the manuscript "Measuring maximum distance in projectile motion.." by Hermina et al. I recommend major revisions and resubmission before it is ready for publishing.
+
+2. The title is not informative of the findings. The abstract does not provide a summary of the findings either.
+
+3. The introduction is poorly written and is not well organized. It should progress in an inverted triangle structure from very broad general information to specifics such as the exact hypotheses and alternatives to be tested. Instead the introduction here mixes "introuction" "derivation" (which appears copied from a physics textbook but is not cited); while later the methods ("lab description and procedure" and hypotheses are mixed. The MS should have been bench rejected for not following the required structure of introduction, methods and materials, results, discussion.
+
+4. Methods (aka "lab description and proceudre" does not give specific information about key equipment, sources and specifications,e tc. It does not explain how many replicates were taken how measurements were made etc. It includes background (introduction) material on Tartaglia that looks wrong (theta/10???). An additional section thrown in "hypothesis" afterwards should be in the introduction includes a figure - is this actual data or a prediction? - that is not referenced anywhere else. The methods should be just the facts of what is needed to replicate the work done here. 
+
+5. Section 6 is labeled "Data" but should be results. Raw data are given - authors for some reason take the mean before nalaysis and do not include s.d. information that would allow judging the sproead f experimental error. The data are plotted in an unnumbered figure which is never discussed; followed by an additional figure with "Tartaglia's Data" which was never discussed either.
+
+6. The final sections deal with "error and comparison" and appear to be trying to decide among different hypotheses but this is nevr spelled out. The authors made up a "mean difference formula" rather than using something standard like RMSE.
+
+7. The conclusion is only 2 lines and says 45deg went against the hypothesis. This really needs to be rewritten. There is only one refernence given and it is incomplete. 
